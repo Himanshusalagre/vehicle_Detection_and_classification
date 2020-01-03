@@ -3,7 +3,7 @@
 import cv2
 print('Project Topic : Vehicle Classification')
 print('Research Internship on Machine learning using Images')
-print('By Aditya Yogish Pai and Aditya Baliga B')
+print('By Himanshu salagre')
 
 cascade_src = 'Bus_front.xml'
 video_src = 'bus1.mp4'
